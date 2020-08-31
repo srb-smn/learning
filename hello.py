@@ -1,4 +1,4 @@
 print("hello")
-i=5
+i=4
 if 4<i:
 	print("low")
